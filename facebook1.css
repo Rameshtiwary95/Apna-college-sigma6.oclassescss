@@ -1,0 +1,16 @@
+*{
+    font-family:"courier New"
+}
+h1{
+    color: blue;
+}
+.loginbtn{
+    background-color: aqua;  
+}
+.registerbtn{
+    background-color: aqua;
+}
+.searchbtn{
+   background-color: black;
+   color: white;
+}

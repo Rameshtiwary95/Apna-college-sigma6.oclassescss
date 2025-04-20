@@ -1,0 +1,77 @@
+ /* div{
+    height:100px;
+    width:100px;
+    background-color: rgba(0, 255, 128, 0.63);
+    margin-top: 10px;
+    margin:0 auto;
+    transition: margin-top 3s ease-in-out 0.2s;
+    transform:rotate(45deg);
+
+}
+div:hover{
+    margin-top:400px;
+    background-color: rgb(161, 85, 23);
+    
+    
+} 
+ section{
+    margin-top: 100px;;
+ }
+ div{
+    width:200px;
+    height:50px;
+    text-align: center;
+    background-color: rgb(148, 59, 59);  
+ }
+ div:nth-of-type(2n){
+    background-color: bisque;
+ }
+ div:nth-of-type(3n){
+    background-color: rgb(200, 140, 66);
+}
+ transform  rotate
+#one{
+    transform:rotate(45deg);
+    
+}
+#two{
+    transform:rotate(45deg)
+}
+  transform  scale  
+#three{
+    transform:scale(0.5)
+}
+ transform  scalex  
+#four{
+    transform:scalex(0.5)
+}
+ transform:translatex  
+#five{
+    transform:translatex(100px)
+}
+
+ transform:skew  
+#six{
+    transform:skew(50deg)
+/* }   
+
+background shadow
+div{
+    width:200px;
+    height:50px;
+    text-align:center;
+    background-color: blueviolet;
+    margin:10px auto;
+    box-shadow: 2px 2px 100px rgb(132, 23, 200);
+}*/
+div{
+    width:500px;
+    height:300px;
+    background-color:orangered;
+    margin:10px auto;
+    background-image:url(Eveningview.jpg);
+    background-size: cover;
+    font-family:sans-serif;
+    color:rgb(54, 54, 151) ;
+}
+

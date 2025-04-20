@@ -1,0 +1,29 @@
+*{
+    text-align:center;  
+}
+mainTopic{
+    color:rgb(75, 75, 219);
+}
+h1,
+h3,
+h5{ 
+    font-family: georgia;
+}
+div button{
+    background-color: purple;
+    color:pink;
+}
+div *{
+    color:white;
+    background-color: cornflowerblue;
+}
+button:hover{
+    background-color: pink;
+    color:blue
+}
+P:nth-child(odd){
+    color:orange
+}
+input[type="checkbox"]:checked + label{
+    color:rgb(190, 93, 93);
+}
